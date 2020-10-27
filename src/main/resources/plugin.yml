@@ -1,0 +1,7 @@
+name: ChatItemDisplayNoHover
+version: ${project.version}
+main: com.github.bingorufus.entitlement.Entitlement
+api-version: 1.16
+authors: [ BingoRufus ]
+description: Free Plugin
+load: POSTWORLD
